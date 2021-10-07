@@ -1,4 +1,4 @@
-### Hi there, I'm Shokirov Rakhimjon 👋
+### Hi there, I'm Shokirov Rakhimjon
 
 - 🔭 I’m currently working on Git commands.
 - 🌱 I’m currently learning Golang.
